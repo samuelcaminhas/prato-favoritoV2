@@ -4,5 +4,5 @@ Hi All,
 
 To run - 
 
--> npm install ;
+-> npm install -
 -> npm start
